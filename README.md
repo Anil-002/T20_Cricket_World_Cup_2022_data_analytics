@@ -75,30 +75,36 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 
  | Middle Order |
+ | --------------- |
 ![Middle Order](https://github.com/user-attachments/assets/7d587918-ce26-4f76-98ef-df6446743389)
 
 
 
  | Finisher |
+ | --------------- |
 ![Finisher](https://github.com/user-attachments/assets/2389a2de-6445-456d-8db4-c0f50fbb8c6b)
 
 
 
 | All Rounder |
+| --------------- |
 ![All Rounder](https://github.com/user-attachments/assets/1ac38bf6-ffad-4cb3-bde1-26b3dfb1e68f)
 
 
 
 | Specilist Fast Bolwers |
+| --------------- |
 ![Fast Bowlers](https://github.com/user-attachments/assets/31d00a57-4e1f-47d4-abcc-2a6fad076ea2)
 
 
 
 | Final Best 11 Players |
+| --------------- |
 ![Final 11](https://github.com/user-attachments/assets/366b4839-768f-4009-8ba0-1fb073b64b2a)
 
 
 | ToolTips |
+| --------------- |
 ![ToolTips1](https://github.com/user-attachments/assets/2cdd4836-ef57-404f-a056-4687c65f6411)
 
 
