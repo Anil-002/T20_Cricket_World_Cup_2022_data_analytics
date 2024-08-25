@@ -69,7 +69,7 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 ### Player Analysis 
 
 |    Openers      |
-![Opener](https://github.com/user-attachments/assets/7d1c2c6d-fc32-454b-a195-e5ea88c90034)
+|![Opener](https://github.com/user-attachments/assets/7d1c2c6d-fc32-454b-a195-e5ea88c90034)|
 
 
 
